@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+/*black section div css*/
 .top {
 	margin: 20px;
 	padding-top: 40px;
@@ -9,22 +10,26 @@
 	background-color: black;
 }
 
+/*<!--IF image-->*/
 .top img {
 	width: 400px;
 	float: left;
 
 }
 
+/*Caption*/
 .top p {
 	color: white;
 	margin-top: 300px;
 	width: 80%;
 }
 
+/*Head/Logo div css*/
 .bottom {
 	margin: 20px;
 }
 
+/*Adobe Logo*/
 .bottom img {
 	margin-top: 40px;
 	width: 150px;
@@ -32,28 +37,27 @@
 	float: right;
 }
 
-
+/*Page head*/
 .bottom h1 {
 	color: red;
 	float: left;
 }
 
-
+/*body div css*/
 .body {
 	clear: both;
 	margin-left: 20px;
 }
 
+/*Adobe website*/
 #site {
 	color: gray;
 	font-size: 24px;
 	margin-left: 250px;
 }
 
+/*body paragraph*/
 #para {
 	width: 345px;
 }
 
-#title {
-	font-style: bold;
-}
