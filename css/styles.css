@@ -17,8 +17,36 @@
 
 .top p {
 	color: white;
-	margin-top: 100px;
-	
+	margin-top: 300px;
+}
+
+.bottom {
+	margin: 20px;
+}
+
+.bottom img {
+	margin-top: 40px;
+	width: 150px;
+	height: auto;
+	float: right;
 }
 
 
+.bottom h1 {
+	color: red;
+	float: left;
+}
+
+
+.body {
+	clear: both;
+	margin-left: 20px;
+}
+
+#para {
+	width: 345px;
+}
+
+#title {
+	font-style: bold;
+}
